@@ -58,7 +58,6 @@
 
 ### 联系我
 
-+ 公众号：【星尘Pro】
-+ e-mail：1136513099@qq.com
-+ github： [Java 思维导图](https://github.com/huangliangyun/MindManager)
++ e-mail：1378153933@qq.com
++ github： [Java 思维导图](https://github.com/RedKingBoy/MindManager)
 
